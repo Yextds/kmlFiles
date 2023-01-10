@@ -1,0 +1,6 @@
+Date Submitted,Reviewer,Title,Details,Overall Rating ,Feedback:Food Raiting,Feedback:Drink Rating,Feedback:Service Rating,Feedback:Ambience Rating,Feedback:Recommend to Friend,Reservation:Date,Reservation:Venue,Reservation:Shift,Reservation:Time
+2023-01-01,John Smith,Nice Restro,Good Starters Served by Restro,10,2,2,3,2,1,2023-01-01,Paris,Morning,10:00:00
+2023-01-02,Smith John,Recommanded for Lunch,,8,1,1,3,3,1,2023-01-01,London,Morning,9:30:00
+2023-01-04,Joe Doe,,,10,2,2,2,0,4,2023-01-02,New York,Morning,12:00:00
+2023-01-03,Alex,,,10,2,1,3,2,2,2023-01-03,Canada,Morning,11:30:00
+2023-01-07,Carlos,,,9,0,3,2,1,3,2023-01-05,Peru,Noon,13:30:00
